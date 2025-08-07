@@ -22,5 +22,13 @@
     "price": 5,
     "category": "bakery",
     "date": "2025-08-07"
+  },
+  {
+    "name": "UHT Full Cream Milk",
+    "brand": "Goodday",
+    "supermarket": "Village Grocer",
+    "price": 8.5,
+    "category": "dairy",
+    "date": "2025-08-07"
   }
 ]
