@@ -14,5 +14,13 @@
     "price": 10.9,
     "category": "uncategorized",
     "date": "2025-08-07"
+  },
+  {
+    "name": "Burger Bun",
+    "brand": "Village Grocer",
+    "supermarket": "Village Grocer",
+    "price": 5,
+    "category": "bakery",
+    "date": "2025-08-07"
   }
 ]
