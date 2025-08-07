@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "Cheese",
+    "brand": "Cheesedale",
+    "supermarket": "Village Grocer",
+    "price": 7.7,
+    "category": "dairy",
+    "date": "2025-08-07"
+  }
+]
