@@ -38,5 +38,13 @@
     "price": 12.9,
     "category": "household",
     "date": "2025-08-07"
+  },
+  {
+    "name": "Enoki Mushrooms",
+    "brand": "Village Grocer",
+    "supermarket": "Village Grocer",
+    "price": 1.05,
+    "category": "uncategorized",
+    "date": "2025-08-07"
   }
 ]
