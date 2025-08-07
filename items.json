@@ -30,5 +30,13 @@
     "price": 8.5,
     "category": "dairy",
     "date": "2025-08-07"
+  },
+  {
+    "name": "Dishwashing Liquid",
+    "brand": "Biohome",
+    "supermarket": "Village Grocer",
+    "price": 12.9,
+    "category": "household",
+    "date": "2025-08-07"
   }
 ]
