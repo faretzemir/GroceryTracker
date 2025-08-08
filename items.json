@@ -470,5 +470,13 @@
     "price": 69.99,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Mayonnaise 310mL",
+    "brand": "Kewpie",
+    "supermarket": "Lotus",
+    "price": 10.99,
+    "category": "condiments",
+    "date": "2025-08-08"
   }
 ]
