@@ -694,5 +694,13 @@
     "price": 4.9,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Shallot",
+    "brand": "Per kg",
+    "supermarket": "Village Grocer",
+    "price": 2.99,
+    "category": "uncategorized",
+    "date": "2025-08-08"
   }
 ]
