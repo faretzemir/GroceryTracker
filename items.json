@@ -368,5 +368,13 @@
     "price": 0.352,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Canola Oil 1L",
+    "brand": "Naturel",
+    "supermarket": "Giant",
+    "price": 14.7,
+    "category": "uncategorized",
+    "date": "2025-08-08"
   }
 ]
