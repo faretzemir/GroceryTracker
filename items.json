@@ -256,5 +256,13 @@
     "price": 11.35,
     "category": "condiments",
     "date": "2025-08-08"
+  },
+  {
+    "name": "UHT Full Cream Milk",
+    "brand": "Yarra",
+    "supermarket": "99 Speedmart",
+    "price": 5.99,
+    "category": "dairy",
+    "date": "2025-08-08"
   }
 ]
