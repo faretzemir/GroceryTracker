@@ -648,5 +648,13 @@
     "price": 12,
     "category": "uncategorized",
     "date": "2024-10-07"
+  },
+  {
+    "name": "Cili Padi Merah",
+    "brand": "Per kg",
+    "supermarket": "Village Grocer",
+    "price": 33.95,
+    "category": "uncategorized",
+    "date": "2025-08-08"
   }
 ]
