@@ -398,5 +398,13 @@
     "price": 2.6,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Oreo 3x9",
+    "brand": "Oreo",
+    "supermarket": "Lotus",
+    "price": 5.69,
+    "category": "uncategorized",
+    "date": "2025-08-08"
   }
 ]
