@@ -702,5 +702,13 @@
     "price": 2.99,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Russet Potato",
+    "brand": "Per kg",
+    "supermarket": "Village Grocer",
+    "price": 7.6,
+    "category": "produce",
+    "date": "2025-08-08"
   }
 ]
