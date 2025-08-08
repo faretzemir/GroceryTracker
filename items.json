@@ -718,5 +718,13 @@
     "price": 2.85,
     "category": "uncategorized",
     "date": "2020-10-05"
+  },
+  {
+    "name": "Japanese Bread Flour 1kg",
+    "brand": "Meriah",
+    "supermarket": "Village Grocer",
+    "price": 10.6,
+    "category": "bakery",
+    "date": "2025-08-08"
   }
 ]
