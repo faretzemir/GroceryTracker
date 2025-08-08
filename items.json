@@ -240,5 +240,13 @@
     "price": 2.6,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Mayonnaise 310mL",
+    "brand": "Kewpie",
+    "supermarket": "Giant",
+    "price": 11,
+    "category": "condiments",
+    "date": "2025-08-08"
   }
 ]
