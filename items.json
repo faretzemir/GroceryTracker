@@ -504,5 +504,13 @@
     "price": 16.05,
     "category": "produce",
     "date": "2025-08-08"
+  },
+  {
+    "name": "UHT Full Cream Milk",
+    "brand": "Dutch Lady",
+    "supermarket": "99 Speedmart",
+    "price": 6.4,
+    "category": "dairy",
+    "date": "2025-08-08"
   }
 ]
