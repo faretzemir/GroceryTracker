@@ -128,5 +128,13 @@
     "price": 3.4,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Baking Soda",
+    "brand": "Meriah",
+    "supermarket": "Lotus",
+    "price": 5.2,
+    "category": "beverages",
+    "date": "2025-08-08"
   }
 ]
