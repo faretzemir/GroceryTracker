@@ -184,5 +184,13 @@
     "price": 3.5,
     "category": "produce",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Shiitake Mushroom",
+    "brand": "Fungo",
+    "supermarket": "Lotus",
+    "price": 5.29,
+    "category": "produce",
+    "date": "2025-08-08"
   }
 ]
