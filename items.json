@@ -168,5 +168,13 @@
     "price": 5.99,
     "category": "beverages",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Kaya",
+    "brand": "Auntie Ros Gardenia",
+    "supermarket": "Lotus",
+    "price": 3.9,
+    "category": "uncategorized",
+    "date": "2025-08-08"
   }
 ]
