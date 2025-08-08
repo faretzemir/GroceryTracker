@@ -352,5 +352,13 @@
     "price": 8,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Maggi Ayam",
+    "brand": "Maggi",
+    "supermarket": "Village Grocer",
+    "price": 6.25,
+    "category": "uncategorized",
+    "date": "2025-08-08"
   }
 ]
