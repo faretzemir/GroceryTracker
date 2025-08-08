@@ -376,5 +376,13 @@
     "price": 14.7,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Hup Seng Cream Crackers",
+    "brand": "Hup Seng",
+    "supermarket": "Lotus",
+    "price": 4.49,
+    "category": "dairy",
+    "date": "2025-08-08"
   }
 ]
