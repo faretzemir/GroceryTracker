@@ -578,5 +578,13 @@
     "price": 2,
     "category": "produce",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Enoki Mushrooms",
+    "brand": "Giant",
+    "supermarket": "Giant",
+    "price": 1.98,
+    "category": "uncategorized",
+    "date": "2024-10-02"
   }
 ]
