@@ -288,5 +288,13 @@
     "price": 53.5,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Pure Olive Oil",
+    "brand": "Naturel",
+    "supermarket": "Giant",
+    "price": 53.3,
+    "category": "uncategorized",
+    "date": "2025-08-08"
   }
 ]
