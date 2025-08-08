@@ -488,5 +488,13 @@
     "price": 9.4,
     "category": "produce",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Holland Potatoes",
+    "brand": "Per kg",
+    "supermarket": "Village Grocer",
+    "price": 3.5,
+    "category": "produce",
+    "date": "2025-08-08"
   }
 ]
