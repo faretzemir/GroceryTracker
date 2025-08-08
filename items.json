@@ -512,5 +512,13 @@
     "price": 6.4,
     "category": "dairy",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Maggi Kari 5x79g",
+    "brand": "Maggi",
+    "supermarket": "99 Speedmart",
+    "price": 5.2,
+    "category": "uncategorized",
+    "date": "2025-08-08"
   }
 ]
