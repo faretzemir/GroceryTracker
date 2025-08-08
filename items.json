@@ -360,5 +360,13 @@
     "price": 6.25,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Red Chillies",
+    "brand": "Village Grocer",
+    "supermarket": "Village Grocer",
+    "price": null,
+    "category": "uncategorized",
+    "date": "2025-08-08"
   }
 ]
