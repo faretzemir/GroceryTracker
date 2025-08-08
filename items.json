@@ -610,5 +610,13 @@
     "price": 4.29,
     "category": "produce",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Valencia Navel Orange",
+    "brand": "Per pc",
+    "supermarket": "Giant",
+    "price": 3,
+    "category": "uncategorized",
+    "date": "2025-08-08"
   }
 ]
