@@ -496,5 +496,13 @@
     "price": 3.5,
     "category": "produce",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Spring Onions",
+    "brand": "Per kg",
+    "supermarket": "Village Grocer",
+    "price": 16.05,
+    "category": "produce",
+    "date": "2025-08-08"
   }
 ]
