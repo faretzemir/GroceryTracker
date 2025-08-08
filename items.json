@@ -430,5 +430,13 @@
     "price": 4.7,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Yellow Onion",
+    "brand": "Per kg",
+    "supermarket": "Village Grocer",
+    "price": 3.9,
+    "category": "produce",
+    "date": "2025-08-08"
   }
 ]
