@@ -618,5 +618,13 @@
     "price": 3,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Udon Noodles",
+    "brand": "Vit’s 200gx3",
+    "supermarket": "Giant",
+    "price": 6.2,
+    "category": "grainspastanoodles",
+    "date": "2025-08-08"
   }
 ]
