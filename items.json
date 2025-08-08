@@ -520,5 +520,13 @@
     "price": 5.2,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Sugar 1kg",
+    "brand": "CSR",
+    "supermarket": "99 Speedmart",
+    "price": 2.95,
+    "category": "uncategorized",
+    "date": "2025-08-08"
   }
 ]
