@@ -640,5 +640,13 @@
     "price": 6.2,
     "category": "grainspastanoodles",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Eggs x30",
+    "brand": "Savoir Grade B",
+    "supermarket": "Village Grocer",
+    "price": 12,
+    "category": "uncategorized",
+    "date": "2024-10-07"
   }
 ]
