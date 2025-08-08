@@ -208,5 +208,13 @@
     "price": 12.49,
     "category": "meat",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Red Cherry Tomatoes",
+    "brand": "Genting Garden",
+    "supermarket": "Village Grocer",
+    "price": 6.5,
+    "category": "produce",
+    "date": "2025-08-08"
   }
 ]
