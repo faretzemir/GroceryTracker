@@ -136,5 +136,13 @@
     "price": 5.2,
     "category": "beverages",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Mayonnaise 400g",
+    "brand": "Kewpie",
+    "supermarket": "Lotus",
+    "price": 10.99,
+    "category": "condiments",
+    "date": "2025-08-08"
   }
 ]
