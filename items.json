@@ -144,5 +144,13 @@
     "price": 10.99,
     "category": "condiments",
     "date": "2025-08-08"
+  },
+  {
+    "name": "MSG 72g",
+    "brand": "Ajinomoto",
+    "supermarket": "Lotus",
+    "price": 2.7,
+    "category": "uncategorized",
+    "date": "2025-08-08"
   }
 ]
