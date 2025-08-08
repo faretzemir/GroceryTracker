@@ -480,5 +480,13 @@
     "price": 10.99,
     "category": "condiments",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Lime (Big)",
+    "brand": "Per kg",
+    "supermarket": "Village Grocer",
+    "price": 9.4,
+    "category": "produce",
+    "date": "2025-08-08"
   }
 ]
