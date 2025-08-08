@@ -264,5 +264,13 @@
     "price": 5.99,
     "category": "dairy",
     "date": "2025-08-08"
+  },
+  {
+    "name": "UHT Full Cream Milk",
+    "brand": "Yarra",
+    "supermarket": "Giant",
+    "price": 5.29,
+    "category": "dairy",
+    "date": "2025-08-08"
   }
 ]
