@@ -414,5 +414,13 @@
     "price": 8.9,
     "category": "produce",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Instant Mi Goreng",
+    "brand": "Indomie x10",
+    "supermarket": "Village Grocer",
+    "price": 10.69,
+    "category": "uncategorized",
+    "date": "2025-08-08"
   }
 ]
