@@ -296,5 +296,13 @@
     "price": 53.3,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Pure Olive Oil 350mL",
+    "brand": "Naturel",
+    "supermarket": "99 Speedmart",
+    "price": 33.5,
+    "category": "uncategorized",
+    "date": "2025-08-08"
   }
 ]
