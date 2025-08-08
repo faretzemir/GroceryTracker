@@ -390,5 +390,13 @@
     "price": 4.49,
     "category": "dairy",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Vanilla Flavouring",
+    "brand": "Star Brand",
+    "supermarket": "Lotus",
+    "price": 2.6,
+    "category": "uncategorized",
+    "date": "2025-08-08"
   }
 ]
