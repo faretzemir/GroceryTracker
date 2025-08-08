@@ -264,5 +264,13 @@
     "price": 5.29,
     "category": "dairy",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Vitagen Yogurt Drink",
+    "brand": "Vitagen",
+    "supermarket": "Village Grocer",
+    "price": 10.65,
+    "category": "dairy",
+    "date": "2025-08-08"
   }
 ]
