@@ -120,5 +120,13 @@
     "price": 2.9,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Macaroni",
+    "brand": "Balducci",
+    "supermarket": "Village Grocer",
+    "price": 3.4,
+    "category": "uncategorized",
+    "date": "2025-08-08"
   }
 ]
