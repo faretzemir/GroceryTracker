@@ -602,5 +602,13 @@
     "price": 2.6,
     "category": "condiments",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Broccoli China",
+    "brand": "Per pc",
+    "supermarket": "Giant",
+    "price": 4.29,
+    "category": "produce",
+    "date": "2025-08-08"
   }
 ]
