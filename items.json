@@ -272,5 +272,13 @@
     "price": 10.65,
     "category": "dairy",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Santan UHT",
+    "brand": "M&S",
+    "supermarket": "Village Grocer",
+    "price": 6.55,
+    "category": "uncategorized",
+    "date": "2025-08-08"
   }
 ]
