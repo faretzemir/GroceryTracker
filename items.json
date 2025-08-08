@@ -686,5 +686,13 @@
     "price": 3.29,
     "category": "produce",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Instant Mi Goreng",
+    "brand": "Indomie x5",
+    "supermarket": "99 Speedmart",
+    "price": 4.9,
+    "category": "uncategorized",
+    "date": "2025-08-08"
   }
 ]
