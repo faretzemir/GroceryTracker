@@ -152,5 +152,13 @@
     "price": 2.7,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Double Stuff Oreo",
+    "brand": "Oreo",
+    "supermarket": "Lotus",
+    "price": 2.49,
+    "category": "uncategorized",
+    "date": "2025-08-08"
   }
 ]
