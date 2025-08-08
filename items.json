@@ -570,5 +570,13 @@
     "price": 11.4,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Lemon",
+    "brand": "Per pc",
+    "supermarket": "Giant",
+    "price": 2,
+    "category": "produce",
+    "date": "2025-08-08"
   }
 ]
