@@ -422,5 +422,13 @@
     "price": 10.69,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Pepsi Black 1.5L",
+    "brand": "Pepsi",
+    "supermarket": "Village Grocer",
+    "price": 4.7,
+    "category": "uncategorized",
+    "date": "2025-08-08"
   }
 ]
