@@ -670,5 +670,13 @@
     "price": 19.99,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Eggs x30",
+    "brand": "QL Deli Grade C",
+    "supermarket": "99 Speedmart",
+    "price": 11.4,
+    "category": "uncategorized",
+    "date": "2024-10-20"
   }
 ]
