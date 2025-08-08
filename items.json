@@ -200,5 +200,13 @@
     "price": 3.69,
     "category": "dairy",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Beef Mince",
+    "brand": "GF",
+    "supermarket": "Lotus",
+    "price": 12.49,
+    "category": "meat",
+    "date": "2025-08-08"
   }
 ]
