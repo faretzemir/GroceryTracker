@@ -204,13 +204,17 @@
   {
     "name": "Cornstarch",
     "brand": "Cap Bintang",
-    "supermarket": "Lotus",
-    "price": 1.7,
+    "supermarket": "Village Grocer",
+    "price": 2.3,
     "category": "uncategorized",
-    "date": "2025-08-08",
+    "date": "2024-10-07",
     "priceHistory": [
       {
         "price": 1.75,
+        "date": "2025-08-08"
+      },
+      {
+        "price": 1.7,
         "date": "2025-08-08"
       }
     ]
@@ -226,10 +230,20 @@
   {
     "name": "Cornstarch",
     "brand": "Cap Bintang",
-    "supermarket": "Lotus",
-    "price": 2.6,
+    "supermarket": "Village Grocer",
+    "price": 2.3,
     "category": "uncategorized",
-    "date": "2025-08-08"
+    "date": "2024-10-07",
+    "priceHistory": [
+      {
+        "price": 1.75,
+        "date": "2025-08-08"
+      },
+      {
+        "price": 1.7,
+        "date": "2025-08-08"
+      }
+    ]
   },
   {
     "name": "Mayonnaise 310mL",
