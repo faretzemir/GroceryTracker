@@ -344,5 +344,13 @@
     "price": 12.6,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Caesar Salad",
+    "brand": "Genting Garden",
+    "supermarket": "Village Grocer",
+    "price": 8,
+    "category": "uncategorized",
+    "date": "2025-08-08"
   }
 ]
