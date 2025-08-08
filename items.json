@@ -312,5 +312,13 @@
     "price": 3.6,
     "category": "produce",
     "date": "2025-08-08"
+  },
+  {
+    "name": "UHT Full Cream Milk",
+    "brand": "Dutch Lady",
+    "supermarket": "Village Grocer",
+    "price": 7.9,
+    "category": "dairy",
+    "date": "2025-08-08"
   }
 ]
