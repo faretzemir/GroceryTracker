@@ -58,8 +58,8 @@
   {
     "name": "Sweetened Creamer",
     "brand": "Saji",
-    "supermarket": "Village Grocer",
-    "price": 3.5,
+    "supermarket": "99 Speedmart",
+    "price": 3.25,
     "category": "dairy",
     "date": "2025-08-08",
     "priceHistory": [
@@ -73,6 +73,10 @@
       },
       {
         "price": 3.25,
+        "date": "2025-08-08"
+      },
+      {
+        "price": 3.5,
         "date": "2025-08-08"
       }
     ]
@@ -80,8 +84,8 @@
   {
     "name": "Sweetened Creamer",
     "brand": "Saji",
-    "supermarket": "Village Grocer",
-    "price": 3.5,
+    "supermarket": "99 Speedmart",
+    "price": 3.25,
     "category": "dairy",
     "date": "2025-08-08",
     "priceHistory": [
@@ -95,6 +99,10 @@
       },
       {
         "price": 3.25,
+        "date": "2025-08-08"
+      },
+      {
+        "price": 3.5,
         "date": "2025-08-08"
       }
     ]
