@@ -678,5 +678,13 @@
     "price": 11.4,
     "category": "uncategorized",
     "date": "2024-10-20"
+  },
+  {
+    "name": "Broccoli China",
+    "brand": "Per pc",
+    "supermarket": "Village Grocer",
+    "price": 3.29,
+    "category": "produce",
+    "date": "2025-08-08"
   }
 ]
