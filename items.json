@@ -248,5 +248,13 @@
     "price": 11,
     "category": "condiments",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Mayonnaise 310mL",
+    "brand": "Kewpie",
+    "supermarket": "Village Grocer",
+    "price": 11.35,
+    "category": "condiments",
+    "date": "2025-08-08"
   }
 ]
