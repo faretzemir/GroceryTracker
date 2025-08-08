@@ -406,5 +406,13 @@
     "price": 5.69,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Potato Chips",
+    "brand": "The Golden Duck - Truffle Wagyu",
+    "supermarket": "Village Grocer",
+    "price": 8.9,
+    "category": "produce",
+    "date": "2025-08-08"
   }
 ]
