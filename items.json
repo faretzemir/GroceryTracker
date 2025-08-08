@@ -304,5 +304,13 @@
     "price": 33.5,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Apple Juice",
+    "brand": "Marigold",
+    "supermarket": "Village Grocer",
+    "price": 3.6,
+    "category": "produce",
+    "date": "2025-08-08"
   }
 ]
