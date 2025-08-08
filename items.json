@@ -224,5 +224,13 @@
     "price": 1.75,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Cornstarch",
+    "brand": "Cap Bintang",
+    "supermarket": "Village Grocer",
+    "price": 3,
+    "category": "uncategorized",
+    "date": "2025-08-08"
   }
 ]
