@@ -78,5 +78,13 @@
     "price": 3.25,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "All Purpose Flour",
+    "brand": "Cap Sauh",
+    "supermarket": "99 Speedmart",
+    "price": 2.9,
+    "category": "uncategorized",
+    "date": "2025-08-08"
   }
 ]
