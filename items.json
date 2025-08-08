@@ -536,5 +536,13 @@
     "price": 4.9,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "UHT Full Cream Milk",
+    "brand": "Dutch Lady",
+    "supermarket": "Kapitan Grocer JB",
+    "price": 8.5,
+    "category": "dairy",
+    "date": "2025-08-08"
   }
 ]
