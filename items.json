@@ -160,5 +160,13 @@
     "price": 2.49,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Earl Grey Tea",
+    "brand": "Ahmad Tea",
+    "supermarket": "Lotus",
+    "price": 5.99,
+    "category": "beverages",
+    "date": "2025-08-08"
   }
 ]
