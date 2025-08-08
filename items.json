@@ -62,5 +62,13 @@
     "price": 3.75,
     "category": "dairy",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Sweetened Creamer",
+    "brand": "Saji",
+    "supermarket": "99 Speedmart",
+    "price": 3.2,
+    "category": "dairy",
+    "date": "2025-08-08"
   }
 ]
