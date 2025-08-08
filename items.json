@@ -656,5 +656,13 @@
     "price": 33.95,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Coriander",
+    "brand": "Per kg",
+    "supermarket": "Village Grocer",
+    "price": 19.99,
+    "category": "uncategorized",
+    "date": "2025-08-08"
   }
 ]
