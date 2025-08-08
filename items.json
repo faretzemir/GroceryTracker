@@ -557,9 +557,15 @@
     "name": "Sugar 1kg",
     "brand": "CSR",
     "supermarket": "99 Speedmart",
-    "price": 2.95,
+    "price": 2.85,
     "category": "uncategorized",
-    "date": "2025-08-08"
+    "date": "2024-10-20",
+    "priceHistory": [
+      {
+        "price": 2.95,
+        "date": "2025-08-08"
+      }
+    ]
   },
   {
     "name": "Indomie Mi Goreng Spesial x5",
