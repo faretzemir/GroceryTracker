@@ -212,10 +212,16 @@
   {
     "name": "Cornstarch",
     "brand": "Cap Bintang",
-    "supermarket": "99 Speedmart",
-    "price": 1.75,
+    "supermarket": "Lotus",
+    "price": 1.7,
     "category": "uncategorized",
-    "date": "2025-08-08"
+    "date": "2025-08-08",
+    "priceHistory": [
+      {
+        "price": 1.75,
+        "date": "2025-08-08"
+      }
+    ]
   },
   {
     "name": "Cornstarch",
