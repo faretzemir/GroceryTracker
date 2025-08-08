@@ -328,5 +328,13 @@
     "price": 14.7,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Maggi Kari 5x79g",
+    "brand": "Maggi",
+    "supermarket": "Village Grocer",
+    "price": 6.25,
+    "category": "uncategorized",
+    "date": "2025-08-08"
   }
 ]
