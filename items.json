@@ -710,5 +710,13 @@
     "price": 7.6,
     "category": "produce",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Sugar 1kg",
+    "brand": "CSR",
+    "supermarket": "Village Grocer",
+    "price": 2.85,
+    "category": "uncategorized",
+    "date": "2020-10-05"
   }
 ]
