@@ -192,5 +192,13 @@
     "price": 5.29,
     "category": "produce",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Sweetened Creamer",
+    "brand": "F&N",
+    "supermarket": "Lotus",
+    "price": 3.69,
+    "category": "dairy",
+    "date": "2025-08-08"
   }
 ]
