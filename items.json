@@ -362,10 +362,10 @@
     "date": "2025-08-08"
   },
   {
-    "name": "Red Chillies",
+    "name": "Red Chillies Per kg",
     "brand": "Village Grocer",
     "supermarket": "Village Grocer",
-    "price": null,
+    "price": 0.352,
     "category": "uncategorized",
     "date": "2025-08-08"
   }
