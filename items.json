@@ -176,5 +176,13 @@
     "price": 3.9,
     "category": "uncategorized",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Apple Juice",
+    "brand": "Marigold",
+    "supermarket": "Lotus",
+    "price": 3.5,
+    "category": "produce",
+    "date": "2025-08-08"
   }
 ]
