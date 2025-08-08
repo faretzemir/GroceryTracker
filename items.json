@@ -59,9 +59,15 @@
     "name": "Sweetened Creamer",
     "brand": "Saji",
     "supermarket": "Village Grocer",
-    "price": 3.75,
+    "price": 3.5,
     "category": "dairy",
-    "date": "2025-08-08"
+    "date": "2025-08-08",
+    "priceHistory": [
+      {
+        "price": 3.75,
+        "date": "2025-08-08"
+      }
+    ]
   },
   {
     "name": "Sweetened Creamer",
