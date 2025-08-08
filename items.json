@@ -586,5 +586,13 @@
     "price": 1.98,
     "category": "uncategorized",
     "date": "2024-10-02"
+  },
+  {
+    "name": "Vanilla Flavouring",
+    "brand": "Star Brand",
+    "supermarket": "Giant",
+    "price": 2.95,
+    "category": "uncategorized",
+    "date": "2024-10-02"
   }
 ]
