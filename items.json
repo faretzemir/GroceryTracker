@@ -866,5 +866,13 @@
     "price": 69.69,
     "category": "uncategorized",
     "date": "2025-08-09"
+  },
+  {
+    "name": "Test Items",
+    "brand": "Testes",
+    "supermarket": "Jaya Grocer",
+    "price": 69.69,
+    "category": "uncategorized",
+    "date": "2025-08-09"
   }
 ]
