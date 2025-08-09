@@ -210,58 +210,6 @@
     "date": "2025-08-09",
     "priceHistory": [
       {
-        "price": 1.75,
-        "date": "2025-08-08"
-      },
-      {
-        "price": 1.7,
-        "date": "2025-08-08"
-      },
-      {
-        "price": 2.3,
-        "date": "2024-10-07"
-      }
-    ]
-  },
-  {
-    "name": "Cornstarch",
-    "brand": "Cap Bintang",
-    "supermarket": "Village Grocer",
-    "price": 3,
-    "category": "uncategorized",
-    "date": "2025-08-09",
-    "priceHistory": [
-      {
-        "price": 1.75,
-        "date": "2025-08-08"
-      },
-      {
-        "price": 1.7,
-        "date": "2025-08-08"
-      },
-      {
-        "price": 2.3,
-        "date": "2024-10-07"
-      }
-    ]
-  },
-  {
-    "name": "Cornstarch",
-    "brand": "Cap Bintang",
-    "supermarket": "Village Grocer",
-    "price": 3,
-    "category": "uncategorized",
-    "date": "2025-08-09",
-    "priceHistory": [
-      {
-        "price": 1.75,
-        "date": "2025-08-08"
-      },
-      {
-        "price": 1.7,
-        "date": "2025-08-08"
-      },
-      {
         "price": 2.3,
         "date": "2024-10-07"
       }
