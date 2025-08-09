@@ -459,12 +459,16 @@
   },
   {
     "name": "Test Items",
-    "brand": "Test",
-    "supermarket": "Jaya Grocer",
-    "price": 29.99,
+    "brand": "Testing",
+    "supermarket": "Village Grocery",
+    "price": 69.99,
     "category": "uncategorized",
     "date": "2025-08-09",
     "priceHistory": [
+      {
+        "price": 29.99,
+        "date": "2025-08-09"
+      },
       {
         "price": 69.99,
         "date": "2025-08-08"
@@ -719,11 +723,37 @@
   },
   {
     "name": "Test Items",
-    "brand": "Test",
-    "supermarket": "Jaya Grocer",
-    "price": 29.99,
+    "brand": "Testing",
+    "supermarket": "Village Grocery",
+    "price": 69.99,
     "category": "uncategorized",
-    "date": "2025-08-09"
+    "date": "2025-08-09",
+    "priceHistory": [
+      {
+        "price": 29.99,
+        "date": "2025-08-09"
+      },
+      {
+        "price": 69.99,
+        "date": "2025-08-08"
+      },
+      {
+        "price": 71.99,
+        "date": "2025-08-08"
+      },
+      {
+        "price": 72.99,
+        "date": "2025-08-08"
+      },
+      {
+        "price": 70.99,
+        "date": "2024-11-15"
+      },
+      {
+        "price": 60.96,
+        "date": "2023-07-18"
+      }
+    ]
   },
   {
     "name": "Broccoli China",
