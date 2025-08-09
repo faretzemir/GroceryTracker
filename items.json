@@ -459,7 +459,7 @@
   },
   {
     "name": "Test Items",
-    "brand": "Testes",
+    "brand": "Testicles",
     "supermarket": "Jaya Grocer",
     "price": 1.29,
     "category": "uncategorized",
@@ -739,7 +739,7 @@
   },
   {
     "name": "Test Items",
-    "brand": "Testes",
+    "brand": "Testicles",
     "supermarket": "Jaya Grocer",
     "price": 1.29,
     "category": "uncategorized",
@@ -907,11 +907,53 @@
   },
   {
     "name": "Test Items",
-    "brand": "Testes",
+    "brand": "Testicles",
     "supermarket": "Jaya Grocer",
-    "price": 69.69,
+    "price": 1.29,
     "category": "uncategorized",
-    "date": "2025-08-09"
+    "date": "2025-08-09",
+    "priceHistory": [
+      {
+        "price": 29.99,
+        "date": "2025-08-09"
+      },
+      {
+        "price": 69.99,
+        "date": "2025-08-09"
+      },
+      {
+        "price": 60.69,
+        "date": "2025-08-09"
+      },
+      {
+        "price": 67.67,
+        "date": "2025-08-09"
+      },
+      {
+        "price": 29.99,
+        "date": "2025-08-09"
+      },
+      {
+        "price": 69.99,
+        "date": "2025-08-08"
+      },
+      {
+        "price": 71.99,
+        "date": "2025-08-08"
+      },
+      {
+        "price": 72.99,
+        "date": "2025-08-08"
+      },
+      {
+        "price": 70.99,
+        "date": "2024-11-15"
+      },
+      {
+        "price": 60.96,
+        "date": "2023-07-18"
+      }
+    ]
   },
   {
     "name": "Test Items",
