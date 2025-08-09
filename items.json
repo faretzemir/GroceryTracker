@@ -734,5 +734,13 @@
     "price": 2.29,
     "category": "produce",
     "date": "2025-08-09"
+  },
+  {
+    "name": "Command Strips Picture Hanging Medium",
+    "brand": "Command Brand",
+    "supermarket": "Jaya Grocer",
+    "price": 18.4,
+    "category": "uncategorized",
+    "date": "2025-08-09"
   }
 ]
