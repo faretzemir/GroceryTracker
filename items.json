@@ -792,5 +792,13 @@
     "price": 7.55,
     "category": "beverages",
     "date": "2025-08-09"
+  },
+  {
+    "name": "Tomatoes",
+    "brand": "Vine Ripened per pc",
+    "supermarket": "Village Grocer",
+    "price": 14.2,
+    "date": "2022-01-04",
+    "category": "produce"
   }
 ]
