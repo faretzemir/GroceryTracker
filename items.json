@@ -768,5 +768,13 @@
     "price": 21.9,
     "date": "2020-10-05",
     "category": "uncategorized"
+  },
+  {
+    "name": "Mineral Water",
+    "brand": "Spritzer 1.5L",
+    "supermarket": "Village Grocer",
+    "price": 2.19,
+    "date": "2020-10-05",
+    "category": "uncategorized"
   }
 ]
