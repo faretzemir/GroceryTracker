@@ -744,5 +744,13 @@
     "price": 6.9,
     "date": "2020-10-05",
     "category": "uncategorized"
+  },
+  {
+    "name": "Shiitake Mushroom",
+    "brand": "Fungo",
+    "supermarket": "Village Grocer",
+    "price": 4.9,
+    "category": "produce",
+    "date": "2020-10-05"
   }
 ]
