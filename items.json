@@ -752,5 +752,13 @@
     "price": 4.9,
     "category": "produce",
     "date": "2020-10-05"
+  },
+  {
+    "name": "Isotonic Drink",
+    "brand": "Pocari Sweat 300mL",
+    "supermarket": "Village Grocer",
+    "price": 3,
+    "date": "2020-10-05",
+    "category": "beverages"
   }
 ]
