@@ -467,9 +467,9 @@
     "name": "Test Item",
     "brand": "Test",
     "supermarket": "Village Grocer",
-    "price": 70.99,
+    "price": 60.96,
     "category": "uncategorized",
-    "date": "2024-11-15",
+    "date": "2023-07-18",
     "priceHistory": [
       {
         "price": 69.99,
@@ -482,6 +482,10 @@
       {
         "price": 72.99,
         "date": "2025-08-08"
+      },
+      {
+        "price": 70.99,
+        "date": "2024-11-15"
       }
     ]
   },
