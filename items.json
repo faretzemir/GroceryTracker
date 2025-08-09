@@ -776,5 +776,13 @@
     "price": 2.19,
     "date": "2020-10-05",
     "category": "uncategorized"
+  },
+  {
+    "name": "H&E Mango Chamomile",
+    "brand": "Heaven and Earth 1.5L",
+    "supermarket": "Village Grocer",
+    "price": 5.2,
+    "date": "2020-10-05",
+    "category": "meat"
   }
 ]
