@@ -808,5 +808,13 @@
     "price": 11.5,
     "date": "2022-01-04",
     "category": "produce"
+  },
+  {
+    "name": "Cornstarch",
+    "brand": "Star Brand",
+    "supermarket": "Lotus",
+    "price": 1.7,
+    "category": "uncategorized",
+    "date": "2025-08-09"
   }
 ]
