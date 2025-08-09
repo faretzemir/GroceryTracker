@@ -736,5 +736,13 @@
     "price": 10.6,
     "category": "bakery",
     "date": "2025-08-08"
+  },
+  {
+    "name": "Cornstarch",
+    "brand": "Cap Bintang",
+    "supermarket": "99 Speedmart",
+    "price": 1.75,
+    "category": "uncategorized",
+    "date": "2025-08-09"
   }
 ]
