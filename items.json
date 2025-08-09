@@ -355,13 +355,7 @@
     "supermarket": "Village Grocer",
     "price": 15.29,
     "category": "uncategorized",
-    "date": "2024-09-15",
-    "priceHistory": [
-      {
-        "price": 0.352,
-        "date": "2025-08-08"
-      }
-    ]
+    "date": "2024-09-15"
   },
   {
     "name": "Canola Oil 1L",
