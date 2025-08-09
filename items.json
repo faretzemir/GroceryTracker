@@ -459,9 +459,9 @@
   },
   {
     "name": "Test Items",
-    "brand": "Testess",
-    "supermarket": "Jaya Grocer",
-    "price": 67.67,
+    "brand": "Tes",
+    "supermarket": "99 Speedmart",
+    "price": 29.99,
     "category": "uncategorized",
     "date": "2025-08-09",
     "priceHistory": [
@@ -475,6 +475,10 @@
       },
       {
         "price": 60.69,
+        "date": "2025-08-09"
+      },
+      {
+        "price": 67.67,
         "date": "2025-08-09"
       },
       {
@@ -731,9 +735,9 @@
   },
   {
     "name": "Test Items",
-    "brand": "Testess",
-    "supermarket": "Jaya Grocer",
-    "price": 67.67,
+    "brand": "Tes",
+    "supermarket": "99 Speedmart",
+    "price": 29.99,
     "category": "uncategorized",
     "date": "2025-08-09",
     "priceHistory": [
@@ -747,6 +751,10 @@
       },
       {
         "price": 60.69,
+        "date": "2025-08-09"
+      },
+      {
+        "price": 67.67,
         "date": "2025-08-09"
       },
       {
