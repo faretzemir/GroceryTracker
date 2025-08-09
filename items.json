@@ -784,5 +784,13 @@
     "price": 5.2,
     "date": "2020-10-05",
     "category": "meat"
+  },
+  {
+    "name": "Baking Soda",
+    "brand": "Arm and Hammer 454g",
+    "supermarket": "Village Grocer",
+    "price": 7.55,
+    "category": "beverages",
+    "date": "2025-08-09"
   }
 ]
