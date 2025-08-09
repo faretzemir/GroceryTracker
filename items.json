@@ -800,5 +800,13 @@
     "price": 14.2,
     "date": "2022-01-04",
     "category": "produce"
+  },
+  {
+    "name": "White Garlic",
+    "brand": "Per kg",
+    "supermarket": "Village Grocer",
+    "price": 11.5,
+    "date": "2022-01-04",
+    "category": "produce"
   }
 ]
