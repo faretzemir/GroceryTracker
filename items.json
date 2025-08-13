@@ -1105,5 +1105,13 @@
     "price": 7.7,
     "category": "dairy",
     "date": "2025-08-13"
+  },
+  {
+    "name": "Butter",
+    "brand": "Tatura Salted/Unsalted 250g",
+    "supermarket": "Village Grocer",
+    "price": 18.25,
+    "category": "dairy",
+    "date": "2025-08-13"
   }
 ]
