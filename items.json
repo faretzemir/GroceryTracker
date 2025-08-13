@@ -1137,5 +1137,13 @@
     "price": 41.8,
     "category": "dairy",
     "date": "2025-08-13"
+  },
+  {
+    "name": "Cooking/Frying Oil 1L",
+    "brand": "Knife Brand",
+    "supermarket": "Village Grocer",
+    "price": 8.5,
+    "date": "2025-08-13",
+    "category": "condiments"
   }
 ]
