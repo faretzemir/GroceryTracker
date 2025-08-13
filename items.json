@@ -1193,5 +1193,13 @@
     "price": 16.15,
     "category": "dairy",
     "date": "2025-08-13"
+  },
+  {
+    "name": "Butter",
+    "brand": "Farmcows Spread 200g",
+    "supermarket": "Village Grocer",
+    "price": 6,
+    "category": "dairy",
+    "date": "2025-08-13"
   }
 ]
