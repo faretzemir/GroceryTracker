@@ -1209,5 +1209,13 @@
     "price": 8.5,
     "category": "dairy",
     "date": "2025-08-13"
+  },
+  {
+    "name": "Cooking/Frying Oil 1L",
+    "brand": "Buruh",
+    "supermarket": "Village Grocer",
+    "price": 6.9,
+    "category": "condiments",
+    "date": "2025-08-13"
   }
 ]
