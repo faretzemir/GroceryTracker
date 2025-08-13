@@ -1097,5 +1097,13 @@
     "price": 83.75,
     "category": "snacks",
     "date": "2025-08-13"
+  },
+  {
+    "name": "Butter",
+    "brand": "Emborg Cook & Bake",
+    "supermarket": "Village Grocer",
+    "price": 7.7,
+    "category": "dairy",
+    "date": "2025-08-13"
   }
 ]
