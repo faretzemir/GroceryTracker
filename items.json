@@ -1041,5 +1041,13 @@
     "price": 67.4,
     "date": "2025-08-13",
     "category": "snacks"
+  },
+  {
+    "name": "Butter",
+    "brand": "Emborg Salted/Unsalted 200g",
+    "supermarket": "Village Grocer",
+    "price": 14.95,
+    "date": "2025-08-13",
+    "category": "dairy"
   }
 ]
