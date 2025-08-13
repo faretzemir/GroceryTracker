@@ -1169,5 +1169,13 @@
     "price": 3,
     "date": "2025-08-13",
     "category": "uncategorized"
+  },
+  {
+    "name": "Oreo 3x9",
+    "brand": "Oreo",
+    "supermarket": "Village Grocer",
+    "price": 7.65,
+    "category": "uncategorized",
+    "date": "2025-08-13"
   }
 ]
