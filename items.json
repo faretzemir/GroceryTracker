@@ -1185,5 +1185,13 @@
     "price": 5.65,
     "category": "dairy",
     "date": "2025-08-13"
+  },
+  {
+    "name": "Butter",
+    "brand": "Anchor Salted/Unsalted 250g",
+    "supermarket": "Village Grocer",
+    "price": 16.15,
+    "category": "dairy",
+    "date": "2025-08-13"
   }
 ]
