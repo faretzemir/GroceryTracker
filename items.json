@@ -1001,5 +1001,13 @@
     "price": 1.9,
     "date": "2025-08-13",
     "category": "uncategorized"
+  },
+  {
+    "name": "Carrot",
+    "brand": "Aus 800g",
+    "supermarket": "Village Grocer",
+    "price": 3.4,
+    "date": "2025-08-13",
+    "category": "produce"
   }
 ]
