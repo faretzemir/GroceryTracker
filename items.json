@@ -1161,5 +1161,13 @@
     "price": 3,
     "category": "uncategorized",
     "date": "2025-08-13"
+  },
+  {
+    "name": "Oreo (Regular)",
+    "brand": "Oreo",
+    "supermarket": "Village Grocer",
+    "price": 3,
+    "date": "2025-08-13",
+    "category": "uncategorized"
   }
 ]
