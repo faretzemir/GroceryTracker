@@ -1129,5 +1129,13 @@
     "price": 21.6,
     "category": "dairy",
     "date": "2025-08-13"
+  },
+  {
+    "name": "Cream Cheese",
+    "brand": "Tatura 1kg",
+    "supermarket": "Village Grocer",
+    "price": 41.8,
+    "category": "dairy",
+    "date": "2025-08-13"
   }
 ]
