@@ -985,5 +985,13 @@
     "price": 12.6,
     "category": "uncategorized",
     "date": "2025-08-13"
+  },
+  {
+    "name": "Eggs x30",
+    "brand": "MS Classic Grade C",
+    "supermarket": "Jaya Grocer",
+    "price": 10.9,
+    "category": "uncategorized",
+    "date": "2025-08-13"
   }
 ]
