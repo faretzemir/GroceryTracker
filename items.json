@@ -95,10 +95,14 @@
     "name": "All Purpose Flour",
     "brand": "Cap Sauh",
     "supermarket": "Village Grocer",
-    "price": 3.2,
+    "price": 3.9,
     "category": "uncategorized",
-    "date": "2025-08-08",
+    "date": "2025-08-13",
     "priceHistory": [
+      {
+        "price": 3.2,
+        "date": "2025-08-08"
+      },
       {
         "price": 3.25,
         "date": "2025-08-08"
