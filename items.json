@@ -1223,5 +1223,13 @@
     "price": 6.9,
     "category": "condiments",
     "date": "2025-08-13"
+  },
+  {
+    "name": "Tortilla / Wraps",
+    "brand": "Gardenia Roll Up Wraps x5",
+    "supermarket": "Adam Mini Mart",
+    "price": 5.4,
+    "date": "2025-08-13",
+    "category": "uncategorized"
   }
 ]
