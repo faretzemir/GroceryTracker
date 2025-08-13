@@ -1113,5 +1113,13 @@
     "price": 18.25,
     "category": "dairy",
     "date": "2025-08-13"
+  },
+  {
+    "name": "Butter",
+    "brand": "SCS Salted/Unsalted 225g",
+    "supermarket": "Village Grocer",
+    "price": 18.5,
+    "category": "dairy",
+    "date": "2025-08-13"
   }
 ]
