@@ -1049,5 +1049,13 @@
     "price": 14.95,
     "date": "2025-08-13",
     "category": "dairy"
+  },
+  {
+    "name": "Cooking Cream",
+    "brand": "Anchor UHT 200mL",
+    "supermarket": "Village Grocer",
+    "price": 8.1,
+    "date": "2025-08-13",
+    "category": "dairy"
   }
 ]
