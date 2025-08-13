@@ -447,9 +447,15 @@
     "name": "Pepsi Black 1.5L",
     "brand": "Pepsi",
     "supermarket": "Adam Mini Mart",
-    "price": 4.9,
+    "price": 5.5,
     "category": "uncategorized",
-    "date": "2025-08-08"
+    "date": "2025-08-13",
+    "priceHistory": [
+      {
+        "price": 4.9,
+        "date": "2025-08-08"
+      }
+    ]
   },
   {
     "name": "Red Chillies per kg",
