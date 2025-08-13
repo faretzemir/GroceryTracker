@@ -1081,5 +1081,13 @@
     "price": 71.85,
     "category": "snacks",
     "date": "2025-08-13"
+  },
+  {
+    "name": "Baking Chocolate",
+    "brand": "Callebaut 811 Dark Chocolate 400g",
+    "supermarket": "Village Grocer",
+    "price": 78,
+    "category": "snacks",
+    "date": "2025-08-13"
   }
 ]
