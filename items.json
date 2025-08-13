@@ -1177,5 +1177,13 @@
     "price": 7.65,
     "category": "uncategorized",
     "date": "2025-08-13"
+  },
+  {
+    "name": "Hup Seng Cream Crackers",
+    "brand": "Hup Seng",
+    "supermarket": "Village Grocer",
+    "price": 5.65,
+    "category": "dairy",
+    "date": "2025-08-13"
   }
 ]
