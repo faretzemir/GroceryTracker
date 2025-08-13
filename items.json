@@ -1201,5 +1201,13 @@
     "price": 6,
     "category": "dairy",
     "date": "2025-08-13"
+  },
+  {
+    "name": "Butter",
+    "brand": "Buttercup 250g",
+    "supermarket": "Village Grocer",
+    "price": 8.5,
+    "category": "dairy",
+    "date": "2025-08-13"
   }
 ]
