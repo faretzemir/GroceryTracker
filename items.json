@@ -1065,5 +1065,13 @@
     "price": 11.8,
     "date": "2025-08-13",
     "category": "dairy"
+  },
+  {
+    "name": "Rice",
+    "brand": "Mewah Thai White 5kg",
+    "supermarket": "Village Grocer",
+    "price": 23.7,
+    "category": "uncategorized",
+    "date": "2025-08-13"
   }
 ]
