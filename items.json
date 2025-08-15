@@ -705,9 +705,15 @@
     "name": "Broccoli China",
     "brand": "Per pc",
     "supermarket": "Village Grocer",
-    "price": 3.29,
+    "price": 2.7,
     "category": "produce",
-    "date": "2025-08-08"
+    "date": "2025-08-15",
+    "priceHistory": [
+      {
+        "price": 3.29,
+        "date": "2025-08-08"
+      }
+    ]
   },
   {
     "name": "Instant Mi Goreng",
