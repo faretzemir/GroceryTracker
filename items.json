@@ -1259,5 +1259,13 @@
     "price": 7.05,
     "date": "2025-08-15",
     "category": "uncategorized"
+  },
+  {
+    "name": "Oyster Sauce",
+    "brand": "Jalen 340g",
+    "supermarket": "Village Grocer",
+    "price": 4.15,
+    "date": "2025-08-15",
+    "category": "condiments"
   }
 ]
