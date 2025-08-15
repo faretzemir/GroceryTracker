@@ -1231,5 +1231,13 @@
     "price": 5.4,
     "date": "2025-08-13",
     "category": "uncategorized"
+  },
+  {
+    "name": "Indomie Mi Goreng Spesial x5",
+    "brand": "Indomie",
+    "supermarket": "Village Grocer",
+    "price": 5.89,
+    "category": "uncategorized",
+    "date": "2025-08-15"
   }
 ]
