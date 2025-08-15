@@ -1251,5 +1251,13 @@
     "price": 5.89,
     "category": "uncategorized",
     "date": "2025-08-15"
+  },
+  {
+    "name": "Whittaker’s Slab",
+    "brand": "Whittaker’s Hokey Pokey",
+    "supermarket": "Village Grocer",
+    "price": 7.05,
+    "date": "2025-08-15",
+    "category": "uncategorized"
   }
 ]
