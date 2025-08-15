@@ -549,9 +549,15 @@
     "name": "Spring Onions",
     "brand": "Per kg",
     "supermarket": "Village Grocer",
-    "price": 16.05,
+    "price": 11.65,
     "category": "produce",
-    "date": "2025-08-08"
+    "date": "2025-08-15",
+    "priceHistory": [
+      {
+        "price": 16.05,
+        "date": "2025-08-08"
+      }
+    ]
   },
   {
     "name": "UHT Full Cream Milk",
