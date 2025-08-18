@@ -1307,5 +1307,13 @@
     "price": 10.05,
     "date": "2025-08-18",
     "category": "uncategorized"
+  },
+  {
+    "name": "Tortilla / Wraps",
+    "brand": "Gardenia Roll Up Wraps x5",
+    "supermarket": "Village Grocer",
+    "price": 5.2,
+    "category": "uncategorized",
+    "date": "2025-08-18"
   }
 ]
