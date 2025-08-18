@@ -1267,5 +1267,13 @@
     "price": 4.15,
     "date": "2025-08-15",
     "category": "condiments"
+  },
+  {
+    "name": "Sugar 1kg",
+    "brand": "MSM Prai",
+    "supermarket": "Village Grocer",
+    "price": 2.85,
+    "category": "uncategorized",
+    "date": "2025-06-25"
   }
 ]
