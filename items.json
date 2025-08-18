@@ -1275,5 +1275,13 @@
     "price": 2.85,
     "category": "uncategorized",
     "date": "2025-06-25"
+  },
+  {
+    "name": "Kaya",
+    "brand": "Seri Kaya",
+    "supermarket": "Village Grocer",
+    "price": 3.8,
+    "category": "uncategorized",
+    "date": "2025-08-18"
   }
 ]
