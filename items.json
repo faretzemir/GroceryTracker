@@ -1323,5 +1323,13 @@
     "price": 4.6,
     "date": "2025-08-18",
     "category": "dairy"
+  },
+  {
+    "name": "Butter",
+    "brand": "Farm Fresh Unsalted",
+    "supermarket": "Village Grocer",
+    "price": 11.9,
+    "category": "dairy",
+    "date": "2025-08-18"
   }
 ]
