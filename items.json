@@ -1315,5 +1315,13 @@
     "price": 5.2,
     "category": "uncategorized",
     "date": "2025-08-18"
+  },
+  {
+    "name": "Kitkat Iced Cream",
+    "brand": "Kitkat",
+    "supermarket": "99 Speedmart",
+    "price": 4.6,
+    "date": "2025-08-18",
+    "category": "dairy"
   }
 ]
