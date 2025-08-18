@@ -1283,5 +1283,13 @@
     "price": 3.8,
     "category": "uncategorized",
     "date": "2025-08-18"
+  },
+  {
+    "name": "Kitchen Towels",
+    "brand": "Scott Multipurpose x8",
+    "supermarket": "Village Grocer",
+    "price": 17,
+    "date": "2025-08-18",
+    "category": "uncategorized"
   }
 ]
