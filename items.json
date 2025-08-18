@@ -1291,5 +1291,13 @@
     "price": 17,
     "date": "2025-08-18",
     "category": "uncategorized"
+  },
+  {
+    "name": "Garbage Bags",
+    "brand": "Sekoplas x50 S",
+    "supermarket": "Village Grocer",
+    "price": 11,
+    "date": "2025-08-18",
+    "category": "household"
   }
 ]
