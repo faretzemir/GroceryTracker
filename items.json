@@ -1343,5 +1343,13 @@
     "price": 11.9,
     "category": "dairy",
     "date": "2025-08-18"
+  },
+  {
+    "name": "Zus Latte",
+    "brand": "Zus Buttercreme 250mL",
+    "supermarket": "Village Grocer",
+    "price": 3.9,
+    "date": "2025-08-21",
+    "category": "beverages"
   }
 ]
