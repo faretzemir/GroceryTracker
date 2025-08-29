@@ -1367,5 +1367,13 @@
     "price": 0.95,
     "category": "uncategorized",
     "date": "2025-08-29"
+  },
+  {
+    "name": "Samyang Buldak Carbonara Sauce 200g",
+    "brand": "Samyang",
+    "supermarket": "Lotus",
+    "price": 15.89,
+    "date": "2025-08-29",
+    "category": "uncategorized"
   }
 ]
