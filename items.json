@@ -1351,5 +1351,13 @@
     "price": 3.9,
     "date": "2025-08-21",
     "category": "beverages"
+  },
+  {
+    "name": "UHT Full Cream Milk",
+    "brand": "Dutch Lady",
+    "supermarket": "Adam Mini Mart",
+    "price": 8.9,
+    "category": "dairy",
+    "date": "2025-08-29"
   }
 ]
