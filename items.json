@@ -1375,5 +1375,13 @@
     "price": 15.89,
     "date": "2025-08-29",
     "category": "uncategorized"
+  },
+  {
+    "name": "Eggs x30",
+    "brand": "Happy Egg",
+    "supermarket": "Lotus",
+    "price": 10.6,
+    "category": "uncategorized",
+    "date": "2025-08-29"
   }
 ]
