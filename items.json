@@ -1359,5 +1359,13 @@
     "price": 8.9,
     "category": "dairy",
     "date": "2025-08-29"
+  },
+  {
+    "name": "Enoki Mushrooms",
+    "brand": "Lotus",
+    "supermarket": "Lotus",
+    "price": 0.95,
+    "category": "uncategorized",
+    "date": "2025-08-29"
   }
 ]
