@@ -1,5 +1,52 @@
 [
   {
+    "id": "list-1756629122675",
+    "date": "2025-08-31T08:32:02.675Z",
+    "items": [
+      {
+        "name": "Apple Juice",
+        "category": "produce"
+      },
+      {
+        "name": "Butter",
+        "category": "dairy"
+      },
+      {
+        "name": "Carrot",
+        "category": "produce"
+      },
+      {
+        "name": "Cheese",
+        "category": "dairy"
+      },
+      {
+        "name": "Coriander",
+        "category": "uncategorized"
+      },
+      {
+        "name": "Eggs x30",
+        "category": "uncategorized"
+      },
+      {
+        "name": "Holland Potatoes",
+        "category": "produce"
+      },
+      {
+        "name": "Hup Seng Cream Crackers",
+        "category": "dairy"
+      },
+      {
+        "name": "Kitchen Towels",
+        "category": "uncategorized"
+      },
+      {
+        "name": "Kaya",
+        "category": "uncategorized"
+      }
+    ],
+    "summary": "10 items - Apple Juice, Butter, Carrot..."
+  },
+  {
     "id": "list-1756629020356",
     "date": "2025-08-31T08:30:20.356Z",
     "items": [
