@@ -1491,5 +1491,13 @@
     "price": 18.9,
     "date": "2025-08-25",
     "category": "uncategorized"
+  },
+  {
+    "name": "Cat Litter",
+    "brand": "Trustie Green Apple 10L",
+    "supermarket": "Pet Lovers Centre",
+    "price": 46.82,
+    "date": "2025-08-25",
+    "category": "uncategorized"
   }
 ]
