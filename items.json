@@ -1397,5 +1397,13 @@
         "date": "2025-08-29"
       }
     ]
+  },
+  {
+    "name": "Scotch Brite Sponge",
+    "brand": "Scotch Brite x4 pcs",
+    "supermarket": "Village Grocer",
+    "price": 9.3,
+    "date": "2025-09-06",
+    "category": "household"
   }
 ]
