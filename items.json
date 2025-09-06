@@ -1458,5 +1458,13 @@
     "price": 8.5,
     "category": "dairy",
     "date": "2025-08-13"
+  },
+  {
+    "name": "Cat Food (Wet)",
+    "brand": "Purina Fancy Feast Classic Chicken (Kitten) 85g",
+    "supermarket": "Pets Naturale Dpulze",
+    "price": 4.6,
+    "category": "uncategorized",
+    "date": "2025-09-06"
   }
 ]
