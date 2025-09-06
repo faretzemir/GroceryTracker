@@ -337,10 +337,14 @@
     "name": "Eggs x30",
     "brand": "Savoir Grade A",
     "supermarket": "Village Grocer",
-    "price": 13.65,
+    "price": 14.1,
     "category": "uncategorized",
-    "date": "2025-08-20",
+    "date": "2025-09-06",
     "priceHistory": [
+      {
+        "price": 13.65,
+        "date": "2025-08-20"
+      },
       {
         "price": 12.6,
         "date": "2025-08-08"
