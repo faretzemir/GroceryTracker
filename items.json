@@ -1434,5 +1434,13 @@
     "price": 4.9,
     "category": "dairy",
     "date": "2025-09-06"
+  },
+  {
+    "name": "Fake Butter",
+    "brand": "Farmcows Spread 200g",
+    "supermarket": "Village Grocer",
+    "price": 6,
+    "date": "2025-09-06",
+    "category": "dairy"
   }
 ]
