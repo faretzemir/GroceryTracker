@@ -1425,5 +1425,13 @@
     "price": 5.25,
     "category": "dairy",
     "date": "2025-09-06"
+  },
+  {
+    "name": "Kitkat Iced Cream",
+    "brand": "Kitkat Regular",
+    "supermarket": "Village Grocer",
+    "price": 4.9,
+    "category": "dairy",
+    "date": "2025-09-06"
   }
 ]
