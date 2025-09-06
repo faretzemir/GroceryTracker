@@ -1450,5 +1450,13 @@
     "price": 7.7,
     "category": "dairy",
     "date": "2025-08-13"
+  },
+  {
+    "name": "Fake Butter",
+    "brand": "Buttercup 200g",
+    "supermarket": "Village Grocer",
+    "price": 8.5,
+    "category": "dairy",
+    "date": "2025-08-13"
   }
 ]
