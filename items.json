@@ -1388,8 +1388,14 @@
     "name": "Kitkat Iced Cream",
     "brand": "Kitkat",
     "supermarket": "Khair Zaman Grocer",
-    "price": 4.7,
+    "price": 4.9,
     "category": "dairy",
-    "date": "2025-08-29"
+    "date": "2025-09-06",
+    "priceHistory": [
+      {
+        "price": 4.7,
+        "date": "2025-08-29"
+      }
+    ]
   }
 ]
