@@ -1475,5 +1475,13 @@
     "price": 3.25,
     "category": "uncategorized",
     "date": "2025-08-25"
+  },
+  {
+    "name": "Royal Canin Dry Food (Adult)",
+    "brand": "RC Urinary",
+    "supermarket": "Pet Lovers Centre",
+    "price": 98.5,
+    "date": "2025-08-25",
+    "category": "uncategorized"
   }
 ]
