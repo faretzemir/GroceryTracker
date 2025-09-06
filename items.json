@@ -1412,11 +1412,12 @@
   },
   {
     "name": "Butter",
-    "brand": "Golden Churn Salted Unsalted",
+    "brand": "Golden Churn Salted Unsalted 250g",
     "supermarket": "Village Grocer",
     "price": 20.6,
     "category": "dairy",
-    "date": "2025-09-06"
+    "date": "2025-09-06",
+    "priceHistory": []
   },
   {
     "name": "Kitkat Iced Cream",
