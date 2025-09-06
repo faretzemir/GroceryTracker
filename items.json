@@ -1409,5 +1409,13 @@
     "price": 9.3,
     "date": "2025-09-06",
     "category": "household"
+  },
+  {
+    "name": "Butter",
+    "brand": "Golden Churn Salted Unsalted",
+    "supermarket": "Village Grocer",
+    "price": 20.6,
+    "category": "dairy",
+    "date": "2025-09-06"
   }
 ]
