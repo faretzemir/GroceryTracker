@@ -1465,7 +1465,8 @@
     "supermarket": "Pets Naturale Dpulze",
     "price": 4.6,
     "category": "uncategorized",
-    "date": "2025-09-06"
+    "date": "2025-08-25",
+    "priceHistory": []
   },
   {
     "name": "Cat Food (Wet)",
