@@ -1499,5 +1499,13 @@
     "price": 46.82,
     "date": "2025-08-25",
     "category": "uncategorized"
+  },
+  {
+    "name": "Dishwashing Liquid",
+    "brand": "Sunlight 800mL",
+    "supermarket": "Village Grocer",
+    "price": 7.2,
+    "category": "household",
+    "date": "2025-09-07"
   }
 ]
