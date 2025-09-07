@@ -117,40 +117,5 @@
       }
     ],
     "summary": "10 items - Apple Juice, Butter, Carrot..."
-  },
-  {
-    "id": "list-1756629020356",
-    "date": "2025-08-31T08:30:20.356Z",
-    "items": [
-      {
-        "name": "All Purpose Flour",
-        "category": "uncategorized"
-      },
-      {
-        "name": "Apple Juice",
-        "category": "produce"
-      },
-      {
-        "name": "Baking Chocolate",
-        "category": "snacks"
-      },
-      {
-        "name": "Baking Soda",
-        "category": "beverages"
-      },
-      {
-        "name": "Samyang Carbonara",
-        "category": "uncategorized"
-      },
-      {
-        "name": "Zus Latte",
-        "category": "beverages"
-      },
-      {
-        "name": "Vanilla Flavouring",
-        "category": "uncategorized"
-      }
-    ],
-    "summary": "7 items - All Purpose Flour, Apple Juice, Baking Chocolate..."
   }
 ]
