@@ -67,9 +67,13 @@
       {
         "name": "Eggs x30",
         "category": "uncategorized"
+      },
+      {
+        "name": "milk"
       }
     ],
-    "summary": "7 items - Broccoli China, Caesar Salad, Cheese..."
+    "summary": "7 items - Broccoli China, Caesar Salad, Cheese...",
+    "lastAppended": "2025-09-07T01:21:42.421Z"
   },
   {
     "id": "list-1756629122675",
